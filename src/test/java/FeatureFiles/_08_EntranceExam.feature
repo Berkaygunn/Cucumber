@@ -12,36 +12,35 @@ Feature: Exam
     Then User should login succesfully
 
 
+  Scenario: Entrance exam Functionality
+    And Click on the element in LeftNav
+      | entranceExams  |
+      | entranceSetup  |
+      | entranceExams2 |
 
-Scenario: Entrance exam Functionality
-And Click on the element in LeftNav
-| entranceExams |
-| entranceSetup |
-| entranceExams2 |
+    And Click on the element in Dialog
+      | addButton |
 
-And Click on the element in Dialog
-| addButton |
+    And User sending the keys in Dialog Content
+      | nameInput | Exam21 |
 
-And User sending the keys in Dialog Content
-| nameInput | Exam21 |
+    And Click on the element in Dialog
+      | period  |
+      | period2 |
+      | grade   |
+      | grade2  |
 
-  And Click on the element in Dialog
-    | period |
-    | period2 |
-    | grade |
-    | grade2 |
+    And Click on the element in Dialog
+      | saveInput |
 
-  And Click on the element in Dialog
-    | saveInput |
+    Then Succes message should be displayed
 
-  Then Succes message should be displayed
+    And Click on the element in Dialog
+      | back |
 
-  And Click on the element in Dialog
-    | back |
+    And User delete item from Dialog Content
+      | Exam21 |
 
-  And User delete item from Dialog Content
-    | Exam21  |
-
-  Then Succes message should be displayed
+    Then Succes message should be displayed
 
 
