@@ -95,8 +95,6 @@ public class DialogContent extends Parent {
     public void deleteItem(String searchText){
         sendKeysFunction(searchInput,searchText);
         clickFunction(searchButton);  //fuse-progress-bar/*  gözüküyor
-        //beklet
-        //wait.until(ExpectedConditions.elementToBeClickable(searchButton));
 
         //fuse-progress-bar/*    bu 0 olana kadar beklet
         wait.until(ExpectedConditions.numberOfElementsToBe(By.xpath("//fuse-progress-bar/*") , 0));
