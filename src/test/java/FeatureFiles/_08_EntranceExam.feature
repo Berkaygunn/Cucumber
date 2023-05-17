@@ -12,6 +12,7 @@ Feature: Exam
     Then User should login succesfully
 
 
+  @SmokeTest @Regression
   Scenario: Entrance exam Functionality
     And Click on the element in LeftNav
       | entranceExams  |

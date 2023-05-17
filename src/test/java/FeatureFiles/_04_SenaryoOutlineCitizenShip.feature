@@ -12,7 +12,7 @@ Feature: Citizenship Functionality
     Then User should login succesfully
     And Navigate to Citizenship page
 
-
+  @SmokeTest @Regression
   Scenario Outline: Citizenship create
     When User a Citizenship name as "<name>" short name as "<short>"
     Then Succes message should be displayed

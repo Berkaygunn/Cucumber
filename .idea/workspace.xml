@@ -6,32 +6,18 @@
   <component name="ChangeListManager">
     <list default="true" id="9a49b597-207c-466a-9f01-af20b4e27f49" name="Changes" comment="Finishs">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test Reports/TestReport 18-Apr-23 17.37.59/PdfReport.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Test Reports/TestReport/PdfReport.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test Reports/TestReport 18-Apr-23 17.37.59/test-output/SparkReport/Spark.html" beforeDir="false" afterPath="$PROJECT_DIR$/Test Reports/TestReport/test-output/SparkReport/Spark.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test Reports/TestReport 18-Apr-23 17.37.59/test-output/screenshots/embedded1.png" beforeDir="false" afterPath="$PROJECT_DIR$/Test Reports/TestReport/test-output/screenshots/embedded1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ApachePOI/_01_2DArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ApachePOI/_02_ApachePOI_Nedir.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ApachePOI/_03_ApachePOIStart.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ApachePOI/_04_ApachePOIGetAllData.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ApachePOI/_05_GetASpecificData.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ApachePOI/_06_WriteInTheExcel.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ApachePOI/_07_NewExcelWrite.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ApachePOI/_09_Tasks.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ApachePOI/resource/ApacheExcel2.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ApachePOI/resource/LoginData.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ApachePOI/resource/ScenarioStatus.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ApachePOI/resource/WriteInTheExcelFile.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/StepDefinitions/_11_JDBCSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/StepDefinitions/_11_JDBCSteps.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Utulities/DBUtulity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Utulities/ExcelUtility.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/_JDBC/Gun1/_01_Intro.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/_JDBC/Gun1/_02_NextPrevAbsRel.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/_JDBC/Gun1/_03_Soru.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/_JDBC/Gun1/_04_FirstLastGetRowgetType.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/_JDBC/Gun2/_01_GetAllRowColumn.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/_JDBC/Gun2/_02_Soru.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/_JDBC/JDBCParent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test Reports/TestReport/PdfReport.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test Reports/TestReport/test-output/SparkReport/Spark.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test Reports/TestReport/test-output/screenshots/embedded1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/FeatureFiles/_02_Country.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/FeatureFiles/_02_Country.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/FeatureFiles/_03_CountryMultipleScenarios.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/FeatureFiles/_03_CountryMultipleScenarios.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/FeatureFiles/_04_SenaryoOutlineCitizenShip.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/FeatureFiles/_04_SenaryoOutlineCitizenShip.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/FeatureFiles/_05_DataTableOrnek.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/FeatureFiles/_05_DataTableOrnek.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/FeatureFiles/_06_DataTable.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/FeatureFiles/_06_DataTable.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/FeatureFiles/_07_FeesScenarioOutlineDatatable.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/FeatureFiles/_07_FeesScenarioOutlineDatatable.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/FeatureFiles/_08_EntranceExam.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/FeatureFiles/_08_EntranceExam.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Runners/_05_TestRunnerRegression.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Runners/_05_TestRunnerRegression.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Runners/_07_TestRunnerExtendReport.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Runners/_07_TestRunnerExtendReport.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,13 +71,20 @@
       <recent name="StepDefinitions" />
     </key>
   </component>
-  <component name="RunManager" selected="Application._04_ApachePOIGetAllData">
-    <configuration name="_01_2DArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ApachePOI._01_2DArray" />
+  <component name="RunManager" selected="TestNG._07_TestRunnerExtendReport">
+    <configuration name="Scenario: Users List" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/FeatureFiles/_05_DataTableOrnek.feature" />
+      <option name="GLUE" value="StepDefinitions" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
       <module name="Cucumber" />
+      <option name="NAME_FILTER" value="^Users List$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Users List$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Users List" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ApachePOI.*" />
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,65 +92,81 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_03_ApachePOIStart" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ApachePOI._03_ApachePOIStart" />
+    <configuration name="_01_TestRunner" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Cucumber" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ApachePOI.*" />
+          <option name="PATTERN" value="Runners.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="Runners" />
+      <option name="MAIN_CLASS_NAME" value="Runners._01_TestRunner" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_04_ApachePOIGetAllData" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ApachePOI._04_ApachePOIGetAllData" />
+    <configuration name="_03_TestRunnerAll" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Cucumber" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ApachePOI.*" />
+          <option name="PATTERN" value="Runners.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="Runners" />
+      <option name="MAIN_CLASS_NAME" value="Runners._03_TestRunnerAll" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_05_GetASpecificData" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ApachePOI._05_GetASpecificData" />
+    <configuration name="_05_TestRunnerRegression" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Cucumber" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ApachePOI.*" />
+          <option name="PATTERN" value="Runners.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="Runners" />
+      <option name="MAIN_CLASS_NAME" value="Runners._05_TestRunnerRegression" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_06_WriteInTheExcel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ApachePOI._06_WriteInTheExcel" />
+    <configuration name="_07_TestRunnerExtendReport" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Cucumber" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ApachePOI.*" />
+          <option name="PATTERN" value="Runners.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="Runners" />
+      <option name="MAIN_CLASS_NAME" value="Runners._07_TestRunnerExtendReport" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application._04_ApachePOIGetAllData" />
-        <item itemvalue="Application._06_WriteInTheExcel" />
-        <item itemvalue="Application._01_2DArray" />
-        <item itemvalue="Application._03_ApachePOIStart" />
-        <item itemvalue="Application._05_GetASpecificData" />
+        <item itemvalue="TestNG._07_TestRunnerExtendReport" />
+        <item itemvalue="TestNG._05_TestRunnerRegression" />
+        <item itemvalue="TestNG._03_TestRunnerAll" />
+        <item itemvalue="TestNG._01_TestRunner" />
+        <item itemvalue="Cucumber Java.Scenario: Users List" />
       </list>
     </recent_temporary>
   </component>
@@ -205,7 +214,21 @@
       <option name="project" value="LOCAL" />
       <updated>1683650659591</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Finishs">
+      <created>1684232814668</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1684232814668</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Finishs">
+      <created>1684233027979</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1684233027979</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

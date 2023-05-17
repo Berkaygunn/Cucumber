@@ -5,6 +5,7 @@ Feature: DataTable Functionality
     When Enter username and password and click login button
     Then User should login succesfully
 
+  @SmokeTest @Regression
   Scenario: Create Country
     And Click on the element in LeftNav
       | setup      |
@@ -28,7 +29,7 @@ Feature: DataTable Functionality
 
     Then Succes message should be displayed
 
-  @Regression
+  @SmokeTest @Regression
   Scenario: Create Nationality
 
     And Click on the element in LeftNav
@@ -53,7 +54,7 @@ Feature: DataTable Functionality
     Then Succes message should be displayed
 
 
-  @Regression
+     @SmokeTest @Regression
     Scenario: Fee Functionality
       And Click on the element in LeftNav
         | setup         |

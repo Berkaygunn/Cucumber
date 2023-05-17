@@ -6,6 +6,7 @@ Feature: Country Multi Scenario
     Then User should login succesfully
     And Navigate to country page
 
+    @SmokeTest @Regression
     Scenario: Create country
       When create a country
       Then Succes message should be displayed

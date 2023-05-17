@@ -10,6 +10,7 @@ Feature: Fees multiple values functionality
     When Enter username and password and click login button
     Then User should login succesfully
 
+  @SmokeTest @Regression
   Scenario Outline: Fee Functionality
     And Click on the element in LeftNav
       | setup         |

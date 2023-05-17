@@ -2,7 +2,7 @@
 
   Feature: Country Functionality
 
-    @SmokeTest
+    @SmokeTest @Regression
     Scenario: Create Country
 
       Given Navigate to Campus
