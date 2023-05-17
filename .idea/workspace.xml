@@ -6,18 +6,12 @@
   <component name="ChangeListManager">
     <list default="true" id="9a49b597-207c-466a-9f01-af20b4e27f49" name="Changes" comment="Finishs">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test Reports/TestReport/PdfReport.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test Reports/TestReport/test-output/SparkReport/Spark.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test Reports/TestReport/test-output/screenshots/embedded1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/FeatureFiles/_02_Country.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/FeatureFiles/_02_Country.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/FeatureFiles/_03_CountryMultipleScenarios.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/FeatureFiles/_03_CountryMultipleScenarios.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/FeatureFiles/_04_SenaryoOutlineCitizenShip.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/FeatureFiles/_04_SenaryoOutlineCitizenShip.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/FeatureFiles/_05_DataTableOrnek.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/FeatureFiles/_05_DataTableOrnek.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/FeatureFiles/_06_DataTable.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/FeatureFiles/_06_DataTable.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/FeatureFiles/_07_FeesScenarioOutlineDatatable.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/FeatureFiles/_07_FeesScenarioOutlineDatatable.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/FeatureFiles/_08_EntranceExam.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/FeatureFiles/_08_EntranceExam.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Runners/_05_TestRunnerRegression.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Runners/_05_TestRunnerRegression.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Runners/_07_TestRunnerExtendReport.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Runners/_07_TestRunnerExtendReport.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Pages/DialogContent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Pages/DialogContent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Pages/LeftNav.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Pages/LeftNav.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Pages/Parent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Pages/Parent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/StepDefinitions/Hooks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/StepDefinitions/Hooks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/StepDefinitions/_01_LoginSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/StepDefinitions/_01_LoginSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Utulities/GWD_old.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -228,7 +222,21 @@
       <option name="project" value="LOCAL" />
       <updated>1684233027979</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Finishs">
+      <created>1684313532210</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1684313532210</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Finishs">
+      <created>1684313671806</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1684313671806</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

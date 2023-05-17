@@ -1,7 +1,6 @@
 package Pages;
 
 import Utulities.GWD;
-import Utulities.GWD_old;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebElement;

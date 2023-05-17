@@ -1,7 +1,6 @@
 package StepDefinitions;
 
 import Utulities.GWD;
-import Utulities.GWD_old;
 import io.cucumber.java.After;
 import io.cucumber.java.Scenario;
 import org.openqa.selenium.OutputType;

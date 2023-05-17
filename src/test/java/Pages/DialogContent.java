@@ -1,7 +1,6 @@
 package Pages;
 
 import Utulities.GWD;
-import Utulities.GWD_old;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
